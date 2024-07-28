@@ -3,9 +3,8 @@
   
 # LAB | Root Cart
 
-  
-<img src="https://user-images.githubusercontent.com/76580/167435963-34b5ddf0-e318-446a-b59f-2edeed3eb030.gif>
-  
+  ![My Image](images/my-image.jpg)
+
 
 ## Introduction
 
