@@ -3,7 +3,7 @@
   
 # LAB | Root Cart
 
-  ![My Image](images/my-image.jpg)
+
 
 
 ## Introduction
